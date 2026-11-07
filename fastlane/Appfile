@@ -1,3 +1,0 @@
-# Who and what fastlane talks to. Credentials are not here: see fastlane/.env.example.
-app_identifier "com.romanitalian.accretion"
-team_id "NKK9LAQ25S"
